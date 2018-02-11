@@ -1,4 +1,4 @@
-#python入门示例
+# python入门示例
 
 - Python Hello World 实例 
 - Python 数字求和 

@@ -1,4 +1,4 @@
-#python示例
+# python示例
 
 - 正则表达式
 - CGI
